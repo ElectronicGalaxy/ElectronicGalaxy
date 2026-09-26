@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Current Projects:</h2>
 
-- <b>Final Year Project</b>
+- <b>My Software Project</b>
   - [STEM Calculator](https://github.com/ElectronicGalaxy/Final_Year_Project/tree/main)
      <br />
      <br />
